@@ -2,6 +2,10 @@
 
 This is a Flutter-based Point of Sale (POS) application designed for use in México.
 
+## Installable APK
+
+The apk for installation is already signed and available as AppInstalable.apk
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
